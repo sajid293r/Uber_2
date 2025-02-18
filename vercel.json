@@ -1,0 +1,8 @@
+{
+    "build": {
+      "env": {
+        "BROWSERSLIST_UPDATE_DB": "true"
+      }
+    }
+  }
+  
